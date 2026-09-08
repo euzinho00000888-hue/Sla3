@@ -1,0 +1,8 @@
+{
+  "name": "Edit History",
+  "description": "Adiciona a opção 'Ver Histórico' no menu de segurar-a-mensagem, mostrando as versões anteriores de mensagens editadas.",
+  "authors": [{ "name": "Você", "id": "0" }],
+  "version": "1.0.0",
+  "main": "index.js",
+  "vendetta": { "icon": "ic_clock" }
+}
