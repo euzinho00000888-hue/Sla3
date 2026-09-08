@@ -1,1 +1,8 @@
-
+{
+  "name": "Message Translator",
+  "description": "Adiciona a opção 'Traduzir' no menu de segurar-a-mensagem para traduzir qualquer mensagem para o português (ou outro idioma configurado).",
+  "authors": [{ "name": "Você", "id": "0" }],
+  "version": "1.0.0",
+  "main": "index.js",
+  "vendetta": { "icon": "ic_translate" }
+}
