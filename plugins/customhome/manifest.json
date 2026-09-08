@@ -1,0 +1,8 @@
+{
+  "name": "Custom Home Screen",
+  "description": "Adiciona um botão flutuante no canto superior da tela que abre uma home screen customizável, onde você posiciona botões e a lista de servidores onde quiser.",
+  "authors": [{ "name": "Você", "id": "0" }],
+  "version": "1.0.0",
+  "main": "index.js",
+  "vendetta": { "icon": "ic_home" }
+}
